@@ -1,4 +1,4 @@
-import './styles.scss'
+import './style.scss'
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'
 
@@ -8,5 +8,5 @@ ReactDOM.render(
       React + TypeScript
     </div>
   ),
-  document.getElementById('root')
+  document.getElementById('root'),
 )
