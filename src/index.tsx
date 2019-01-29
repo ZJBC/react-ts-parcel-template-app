@@ -4,7 +4,7 @@ import * as ReactDOM from 'react-dom'
 
 ReactDOM.render(
   (
-    <div>
+    <div className="test">
       React + TypeScript
     </div>
   ),
